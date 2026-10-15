@@ -6,10 +6,11 @@
   <img src="https://img.shields.io/badge/STATUS-COMPLETE-8A8A32?style=for-the-badge" alt="Project status: Complete">
   <img src="https://img.shields.io/badge/VALIDATION-108%2F108_PASSED-173A55?style=for-the-badge" alt="Validation: 108 of 108 checks passed">
   <img src="https://img.shields.io/badge/PYTHON-PROTOTYPE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python prototype">
-  <img src="https://img.shields.io/badge/LANDBOT-NO--CODE_BUILD-FF5C5C?style=for-the-badge" alt="Landbot no-code build">
+  <a href="https://landbot.site/v3/H-3506403-G3DA4GXEUHU8HWRC/index.html"><img src="https://img.shields.io/badge/LANDBOT-NO--CODE_BUILD-FF5C5C?style=for-the-badge" alt="Open the live Landbot assistant"></a>
 </p>
 
 <p align="center">
+  <a href="#live-demo">Live Demo</a> •
   <a href="#project-snapshot">Project Snapshot</a> •
   <a href="#development-process">Development Process</a> •
   <a href="#testing-results">Testing Results</a> •
@@ -18,6 +19,12 @@
 </p>
 
 # GEEK Streaming Support Assistant
+
+## Live demo
+
+<p align="center">
+  <a href="https://landbot.site/v3/H-3506403-G3DA4GXEUHU8HWRC/index.html"><img src="https://img.shields.io/badge/▶_TRY_THE_LIVE_ASSISTANT-OPEN_LANDBOT-B7B24A?style=for-the-badge" alt="Try the live GEEK Streaming Support Assistant"></a>
+</p>
 
 A guided troubleshooting assistant for common streaming-device problems, built as a portfolio proof of concept.
 
@@ -32,6 +39,7 @@ I designed the logic by hand, prototyped it in Python, mapped it in Whimsical, a
 | **Scope** | 4 support categories, 8 symptom routes, and 32 valid Python paths |
 | **Validation** | 108 of 108 planned checks passed after fixes and retesting |
 | **Status** | Published and fully validated proof of concept |
+| **Live experience** | [Launch the published assistant](https://landbot.site/v3/H-3506403-G3DA4GXEUHU8HWRC/index.html) |
 
 ## The problem
 
